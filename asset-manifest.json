@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reciepes/static/css/main.452449e5.css",
+    "main.js": "/reciepes/static/js/main.ea1f49c9.js",
+    "static/js/592.6bb30240.chunk.js": "/reciepes/static/js/592.6bb30240.chunk.js",
+    "index.html": "/reciepes/index.html",
+    "main.452449e5.css.map": "/reciepes/static/css/main.452449e5.css.map",
+    "main.ea1f49c9.js.map": "/reciepes/static/js/main.ea1f49c9.js.map",
+    "592.6bb30240.chunk.js.map": "/reciepes/static/js/592.6bb30240.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.452449e5.css",
+    "static/js/main.ea1f49c9.js"
+  ]
+}
